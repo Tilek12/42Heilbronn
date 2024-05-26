@@ -1,7 +1,7 @@
-# 42Heilbronn :desktop_computer: :de:
+# :mortar_board: :desktop_computer: 42 Heilbronn :de:
 
-## Resources :floppy_disk:
+## :floppy_disk: Resources
 
-### All information about 42 School and it's projects - [42 Resources](https://github.com/jotavare/42-resources)
+### :clipboard: All information about 42 School and it's projects - [42 Resources](https://github.com/jotavare/42-resources)
 
-### Special 42 Bages - [42 Bages](https://github.com/Tilek12/42-project-badges)
+### :medal_military: Special 42 Bages - [42 Bages](https://github.com/Tilek12/42-project-badges)
