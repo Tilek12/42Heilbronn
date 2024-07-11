@@ -19,3 +19,4 @@ Project| Repo link | Description
 ![minitalk_img](https://github.com/Tilek12/42-project-badges/blob/main/badges/minitalkm.png) | [Minitalk](https://github.com/Tilek12/42HN-minitalk) | A communication program in the form of a 'client' and a 'server'
 ![push_swap_img](https://github.com/Tilek12/42-project-badges/blob/main/badges/push_swapm.png) | [Push_swap](https://github.com/Tilek12/42HN-push_swap) | Data sorting algorithm project
 ![fract-ol_img](https://github.com/Tilek12/42-project-badges/blob/main/badges/fract-olm.png) | [Fract-ol](https://github.com/Tilek12/42HN-fract-ol) | This project is about creating graphically beautiful fractals
+![philosophers_img](https://github.com/Tilek12/42-project-badges/blob/main/badges/philosopherse.png) | [Philosophers](https://github.com/Tilek12/42HN-philosophers) | Multithreading program
