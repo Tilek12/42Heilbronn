@@ -13,10 +13,11 @@ Link | Description
 
 Project| Repo link | Description
 ---|---|---
-![libft_img](https://github.com/Tilek12/42-project-badges/blob/main/badges/libftm.png) | [Libft](https://github.com/Tilek12/42HN-libft) |  Own library of reproduced common C functions and some additional ones
-![ft_printf_img](https://github.com/Tilek12/42-project-badges/blob/main/badges/ft_printfe.png) | [Ft_printf](https://github.com/Tilek12/42HN-ft_printf) | Reproduction of the original printf function
-![get_next_line_img](https://github.com/Tilek12/42-project-badges/blob/main/badges/get_next_linem.png) | [Get_next_line](https://github.com/Tilek12/42Heilbronn-get_next_line) | Function that returns the line with \n at the end
-![minitalk_img](https://github.com/Tilek12/42-project-badges/blob/main/badges/minitalkm.png) | [Minitalk](https://github.com/Tilek12/42HN-minitalk) | A communication program in the form of a 'client' and a 'server'
-![push_swap_img](https://github.com/Tilek12/42-project-badges/blob/main/badges/push_swapm.png) | [Push_swap](https://github.com/Tilek12/42HN-push_swap) | Data sorting algorithm project
-![fract-ol_img](https://github.com/Tilek12/42-project-badges/blob/main/badges/fract-olm.png) | [Fract-ol](https://github.com/Tilek12/42HN-fract-ol) | This project is about creating graphically beautiful fractals
-![philosophers_img](https://github.com/Tilek12/42-project-badges/blob/main/badges/philosopherse.png) | [Philosophers](https://github.com/Tilek12/42HN-philosophers) | Multithreading program
+![libft_img](https://github.com/Tilek12/42-project-badges/blob/main/badges/libftm.png) | **[Libft](https://github.com/Tilek12/42HN-libft)** |  **Own library of reproduced common C functions and some additional ones**
+![ft_printf_img](https://github.com/Tilek12/42-project-badges/blob/main/badges/ft_printfe.png) | **[Ft_printf](https://github.com/Tilek12/42HN-ft_printf)** | **Reproduction of the original printf function**
+![get_next_line_img](https://github.com/Tilek12/42-project-badges/blob/main/badges/get_next_linem.png) | **[Get_next_line](https://github.com/Tilek12/42Heilbronn-get_next_line)** | **Function that returns the line with \n at the end**
+![minitalk_img](https://github.com/Tilek12/42-project-badges/blob/main/badges/minitalkm.png) | **[Minitalk](https://github.com/Tilek12/42HN-minitalk)** | **A communication program in the form of a 'client' and a 'server'**
+![push_swap_img](https://github.com/Tilek12/42-project-badges/blob/main/badges/push_swapm.png) | **[Push_swap](https://github.com/Tilek12/42HN-push_swap)** | **Data sorting algorithm project**
+![fract-ol_img](https://github.com/Tilek12/42-project-badges/blob/main/badges/fract-olm.png) | **[Fract-ol](https://github.com/Tilek12/42HN-fract-ol)** | **This project is about creating graphically beautiful fractals**
+![philosophers_img](https://github.com/Tilek12/42-project-badges/blob/main/badges/philosopherse.png) | **[Philosophers](https://github.com/Tilek12/42HN-philosophers)** | **Multithreading program**
+![minishell_img](https://github.com/Tilek12/42-project-badges/blob/main/badges/minishelle.png) | **[Minishell](https://github.com/Tilek12/42HN-minishell)** | **This project is about creating a simple shell.**
