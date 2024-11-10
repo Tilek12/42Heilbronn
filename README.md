@@ -11,7 +11,7 @@ Link | Description
 
 ## :file_cabinet:  Projects:
 
-Project| Repo link | Description
+Projects in C| Repo link | Description
 ---|---|---
 ![libft_img](https://github.com/Tilek12/42-project-badges/blob/main/badges/libftm.png) | **[Libft](https://github.com/Tilek12/42HN-libft)** |  **Own library of reproduced common C functions and some additional ones**
 ![ft_printf_img](https://github.com/Tilek12/42-project-badges/blob/main/badges/ft_printfe.png) | **[Ft_printf](https://github.com/Tilek12/42HN-ft_printf)** | **Reproduction of the original printf function**
@@ -22,3 +22,9 @@ Project| Repo link | Description
 ![philosophers_img](https://github.com/Tilek12/42-project-badges/blob/main/badges/philosopherse.png) | **[Philosophers](https://github.com/Tilek12/42HN-philosophers)** | **Multithreading program**
 ![minishell_img](https://github.com/Tilek12/42-project-badges/blob/main/badges/minishelle.png) | **[Minishell](https://github.com/Tilek12/42HN-minishell)** | **This project is about creating a simple shell.**
 ![cub3d_img](https://github.com/Tilek12/42-project-badges/blob/main/badges/cub3dm.png) | **[Minishell](https://github.com/Tilek12/42HN-cub3D)** | **Ray casting 3D Game.**
+
+
+Projects in C++| Repo link | Description
+---|---|---
+![cpp0_img](https://github.com/Tilek12/42-project-badges/blob/main/badges/cppe.png) | **[CPP_00](https://github.com/Tilek12/42HN-CPP_Module_00)** |  **Namespaces, classes, member functions, stdio streams, initialization lists, static, const, and some other basic stuf**
+
