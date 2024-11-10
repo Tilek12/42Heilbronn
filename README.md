@@ -26,5 +26,5 @@ Projects in C| Repo link | Description
 
 Projects in C++| Repo link | Description
 ---|---|---
-![cpp0_img](https://github.com/Tilek12/42-project-badges/blob/main/badges/cppe.png) | **[CPP_00](https://github.com/Tilek12/42HN-CPP_Module_00)** |  **Namespaces, classes, member functions, stdio streams, initialization lists, static, const, and some other basic stuf**
+![cpp0_img](https://github.com/Tilek12/42-project-badges/blob/main/badges/cppe.png) | **[CPP_Module_00](https://github.com/Tilek12/42HN-CPP_Module_00)** |  **Namespaces, classes, member functions, stdio streams, initialization lists, static, const, and some other basic stuf**
 
