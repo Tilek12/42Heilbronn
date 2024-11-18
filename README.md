@@ -24,11 +24,6 @@ Projects in C| Repo link | Description
 ![cub3d_img](https://github.com/Tilek12/42-project-badges/blob/main/badges/cub3dm.png) | **[Minishell](https://github.com/Tilek12/42HN-cub3D)** | **Ray casting 3D Game.**
 
 
-Projects in C++| Repo link | Description
---- | --- | ---
-![cpp0_img](https://github.com/Tilek12/42-project-badges/blob/main/badges/cppe.png) | **[CPP_Module_00](https://github.com/Tilek12/42HN-CPP_Module_00)** |  **Namespaces, classes, member functions, stdio streams, initialization lists, static, const and some other basic stuff**
-&nbsp; | **[CPP_Module_01](https://github.com/Tilek12/42HN-CPP_Module_01)** |  **Memory allocation, pointers to members, references, switch statement**
-
 <table>
   <tr>
     <th>Projects in C++</th>
