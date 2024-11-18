@@ -12,7 +12,7 @@ Link | Description
 ## :file_cabinet:  Projects:
 
 Projects in C| Repo link | Description
----|---|---
+--- | --- | ---
 ![libft_img](https://github.com/Tilek12/42-project-badges/blob/main/badges/libftm.png) | **[Libft](https://github.com/Tilek12/42HN-libft)** |  **Own library of reproduced common C functions and some additional ones**
 ![ft_printf_img](https://github.com/Tilek12/42-project-badges/blob/main/badges/ft_printfe.png) | **[Ft_printf](https://github.com/Tilek12/42HN-ft_printf)** | **Reproduction of the original printf function**
 ![get_next_line_img](https://github.com/Tilek12/42-project-badges/blob/main/badges/get_next_linem.png) | **[Get_next_line](https://github.com/Tilek12/42Heilbronn-get_next_line)** | **Function that returns the line with \n at the end**
@@ -25,6 +25,25 @@ Projects in C| Repo link | Description
 
 
 Projects in C++| Repo link | Description
----|---|---
+--- | --- | ---
 ![cpp0_img](https://github.com/Tilek12/42-project-badges/blob/main/badges/cppe.png) | **[CPP_Module_00](https://github.com/Tilek12/42HN-CPP_Module_00)** |  **Namespaces, classes, member functions, stdio streams, initialization lists, static, const and some other basic stuff**
+&nbsp; | **[CPP_Module_01](https://github.com/Tilek12/42HN-CPP_Module_01)** |  **Memory allocation, pointers to members, references, switch statement**
 
+<table>
+  <tr>
+    <th>Projects in C++</th>
+    <th>Repo link</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td rowspan="2">
+      <img src="https://github.com/Tilek12/42-project-badges/blob/main/badges/cppe.png" alt="cpp0_img" />
+    </td>
+    <td><strong><a href="https://github.com/Tilek12/42HN-CPP_Module_00">CPP_Module_00</a></strong></td>
+    <td><strong>Namespaces, classes, member functions, stdio streams, initialization lists, static, const and some other basic stuff</strong></td>
+  </tr>
+  <tr>
+    <td><strong><a href="https://github.com/Tilek12/42HN-CPP_Module_01">CPP_Module_01</a></strong></td>
+    <td><strong>Memory allocation, pointers to members, references, switch statement</strong></td>
+  </tr>
+</table>
