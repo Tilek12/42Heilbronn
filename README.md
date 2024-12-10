@@ -31,7 +31,7 @@ Projects in C| Repo link | Description
     <th>Description</th>
   </tr>
   <tr>
-    <td rowspan="2">
+    <td rowspan="5">
       <img src="https://github.com/Tilek12/42-project-badges/blob/main/badges/cppe.png" alt="cpp0_img" />
     </td>
     <td><strong><a href="https://github.com/Tilek12/42HN-CPP_Module_00">CPP_Module_00</a></strong></td>
@@ -40,5 +40,17 @@ Projects in C| Repo link | Description
   <tr>
     <td><strong><a href="https://github.com/Tilek12/42HN-CPP_Module_01">CPP_Module_01</a></strong></td>
     <td><strong>Memory allocation, pointers to members, references, switch statement</strong></td>
+  </tr>
+  <tr>
+    <td><strong><a href="https://github.com/Tilek12/42HN-CPP_Module_02">CPP_Module_02</a></strong></td>
+    <td><strong>Ad-hoc polymorphism, operator overloading and Orthodox Canonical class form</strong></td>
+  </tr>
+  <tr>
+    <td><strong><a href="https://github.com/Tilek12/42HN-CPP_Module_03">CPP_Module_03</a></strong></td>
+    <td><strong>Inheritance</strong></td>
+  </tr>
+  <tr>
+    <td><strong><a href="https://github.com/Tilek12/42HN-CPP_Module_04">CPP_Module_04</a></strong></td>
+    <td><strong>Subtype polymorphism, abstract classes, interfaces</strong></td>
   </tr>
 </table>
