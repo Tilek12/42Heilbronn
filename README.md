@@ -21,7 +21,7 @@ Projects in C| Repo link | Description
 ![fract-ol_img](https://github.com/Tilek12/42-project-badges/blob/main/badges/fract-olm.png) | **[Fract-ol](https://github.com/Tilek12/42HN-fract-ol)** | **This project is about creating graphically beautiful fractals**
 ![philosophers_img](https://github.com/Tilek12/42-project-badges/blob/main/badges/philosopherse.png) | **[Philosophers](https://github.com/Tilek12/42HN-philosophers)** | **Multithreading program**
 ![minishell_img](https://github.com/Tilek12/42-project-badges/blob/main/badges/minishelle.png) | **[Minishell](https://github.com/Tilek12/42HN-minishell)** | **This project is about creating a simple shell.**
-![cub3d_img](https://github.com/Tilek12/42-project-badges/blob/main/badges/cub3dm.png) | **[Minishell](https://github.com/Tilek12/42HN-cub3D)** | **Ray casting 3D Game.**
+![cub3d_img](https://github.com/Tilek12/42-project-badges/blob/main/badges/cub3dm.png) | **[Cub3D](https://github.com/Tilek12/42HN-cub3D)** | **Ray casting 3D Game.**
 
 
 <table>
