@@ -53,4 +53,27 @@ Projects in C| Repo link | Description
     <td><strong><a href="https://github.com/Tilek12/42HN-CPP_Module_04">CPP_Module_04</a></strong></td>
     <td><strong>Subtype polymorphism, abstract classes, interfaces</strong></td>
   </tr>
+  <tr>
+    <td rowspan="5">
+      <img src="https://github.com/Tilek12/42-project-badges/blob/main/badges/cppm.png" alt="cpp0_img" />
+    </td>
+    <td><strong><a href="https://github.com/Tilek12/42HN-CPP_Module_05">CPP_Module_05</a></strong></td>
+    <td><strong>Repetition and Exceptions</strong></td>
+  </tr>
+  <tr>
+    <td><strong><a href="https://github.com/Tilek12/42HN-CPP_Module_06">CPP_Module_06</a></strong></td>
+    <td><strong>C++ casts</strong></td>
+  </tr>
+  <tr>
+    <td><strong><a href="https://github.com/Tilek12/42HN-CPP_Module_07">CPP_Module_07</a></strong></td>
+    <td><strong>C++ templates</strong></td>
+  </tr>
+  <tr>
+    <td><strong><a href="https://github.com/Tilek12/42HN-CPP_Module_08">CPP_Module_08</a></strong></td>
+    <td><strong>Templated containers, iterators, algorithms</strong></td>
+  </tr>
+  <tr>
+    <td><strong><a href="https://github.com/Tilek12/42HN-CPP_Module_09">CPP_Module_09</a></strong></td>
+    <td><strong>STL</strong></td>
+  </tr>
 </table>
