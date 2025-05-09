@@ -82,3 +82,10 @@ Projects in C| Repo link | Description
 Docker project | Repo link | Description
 --- | --- | ---
 ![libft_img](https://github.com/Tilek12/42-project-badges/blob/main/badges/inceptione.png) | **[Inception](https://github.com/Tilek12/42HN-inception)** |  **System administration project with virtualized infrastructure, including web servers, databases and load balancers. Used tools: VirtualBox, Docker, Docker Compose, MariaDB, WordPress, NGINX.**
+
+
+Internet Relay Chat | Repo link | Description
+--- | --- | ---
+![libft_img](https://github.com/Tilek12/42-project-badges/blob/main/badges/ft_irce.png) | **[Ft_irc](https://github.com/Tilek12/42HN-ft_irc)** |  **Internet Relay Chat (IRC) server. Used client: KVIrc 5.0**
+
+
